@@ -1,0 +1,225 @@
+{
+  "eventos": [
+    {
+      "data_inicio": "2026-11-07T20:30:00",
+      "data_fim": null,
+      "dia_semana": "Sábado",
+      "duracao_minutos": 180,
+      "titulo": "Calema e GNTK",
+      "local": "Arena Genève",
+      "cidade": "Genebra",
+      "descricao": "Grande concerto indoor com ritmos de zouk, R&B e kizomba.",
+      "bilheteira": {
+        "disponivel": false,
+        "tipo": null,
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": null
+      },
+      "tts": "Sábado, 7 de novembro, às 20 horas e 30 minutos. Concerto Calema e G N T K na Arena de Genebra. Uma grande noite de música zouk, R e B e kizomba.",
+      "tts_bilheteira": null
+    },
+    {
+      "data_inicio": "2026-11-11T00:00:00",
+      "data_fim": "2026-11-22T23:59:59",
+      "dia_semana": "Quarta-feira",
+      "duracao_dias": 12,
+      "titulo": "Exposição Centenário de Júlio Pomar",
+      "local": "Pôle Musique de Sion",
+      "cidade": "Sion",
+      "descricao": "Mostra cultural dedicada ao artista português Júlio Pomar.",
+      "bilheteira": {
+        "disponivel": false,
+        "tipo": null,
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": null
+      },
+      "tts": "De 11 a 22 de novembro decorre a exposição Centenário de Júlio Pomar, no Pôle Musique de Sion. Uma mostra cultural dedicada a um dos maiores nomes da arte contemporânea portuguesa.",
+      "tts_bilheteira": null
+    },
+    {
+      "data_inicio": "2026-11-14T00:00:00",
+      "data_fim": null,
+      "dia_semana": "Sábado",
+      "duracao_minutos": 480,
+      "titulo": "9.ª Festa Anual",
+      "local": "Maison du Peuple",
+      "cidade": "La Chaux-de-Fonds",
+      "descricao": "Festa com atuação de Luis Jorge e do Rancho Folclórico Tradições do Minho.",
+      "bilheteira": {
+        "disponivel": false,
+        "tipo": null,
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": null
+      },
+      "tts": "Sábado, 14 de novembro. Nona Festa Anual em La Chaux-de-Fonds, com Luis Jorge e o Rancho Folclórico Tradições do Minho.",
+      "tts_bilheteira": null
+    },
+    {
+      "data_inicio": "2026-11-21T17:00:00",
+      "data_fim": null,
+      "dia_semana": "Sábado",
+      "duracao_minutos": 120,
+      "titulo": "MIGAS",
+      "local": "Fiorello Saal",
+      "cidade": "Erlenbach",
+      "descricao": "Espetáculo de humor com Joana Marques e Bumba na Fofinha.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "lista_espera",
+        "url": null,
+        "email": "info@comedy4you.pt",
+        "telefone": null,
+        "notas": "Sessões esgotadas. Possibilidade de inscrição em lista de espera."
+      },
+      "tts": "Sábado, 21 de novembro, às 17 horas. Espetáculo MIGAS com Joana Marques e Bumba na Fofinha, no Fiorello Saal em Erlenbach.",
+      "tts_bilheteira": "As sessões encontram-se esgotadas. Pode solicitar entrada na lista de espera através do e-mail info arroba comedy4you ponto pê tê."
+    },
+    {
+      "data_inicio": "2026-11-21T20:00:00",
+      "data_fim": "2026-11-22T23:59:59",
+      "dia_semana": "Sábado",
+      "duracao_dias": 2,
+      "titulo": "Festival Made in Portugal",
+      "local": "Sporthalle Unterrohr",
+      "cidade": "Schlieren",
+      "descricao": "Festival de música urbana portuguesa com Piruka, MC Zaquin, Guga, Gama Wntd e DJs convidados.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "eventfrog",
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": "Bilhetes disponíveis na plataforma Eventfrog."
+      },
+      "tts": "Nos dias 21 e 22 de novembro decorre o Festival Made in Portugal, em Schlieren. Música urbana portuguesa com Piruka, M C Zaquin, Guga, Gama W N T D e vários D J convidados.",
+      "tts_bilheteira": "Bilhetes disponíveis na plataforma Eventfrog."
+    },
+    {
+      "data_inicio": "2026-11-21T21:00:00",
+      "data_fim": null,
+      "dia_semana": "Sábado",
+      "duracao_minutos": 120,
+      "titulo": "MIGAS",
+      "local": "Fiorello Saal",
+      "cidade": "Erlenbach",
+      "descricao": "Espetáculo de humor com Joana Marques e Bumba na Fofinha.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "lista_espera",
+        "url": null,
+        "email": "info@comedy4you.pt",
+        "telefone": null,
+        "notas": "Sessões esgotadas. Possibilidade de inscrição em lista de espera."
+      },
+      "tts": "Sábado, 21 de novembro, às 21 horas. Segunda sessão do espetáculo MIGAS em Erlenbach.",
+      "tts_bilheteira": "As sessões encontram-se esgotadas. Pode solicitar entrada na lista de espera através do e-mail info arroba comedy4you ponto pê tê."
+    },
+    {
+      "data_inicio": "2026-11-23T18:00:00",
+      "data_fim": null,
+      "dia_semana": "Segunda-feira",
+      "duracao_minutos": 120,
+      "titulo": "MIGAS",
+      "local": "Uptown Geneva",
+      "cidade": "Genebra",
+      "descricao": "Espetáculo de humor com Joana Marques e Bumba na Fofinha.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "lista_espera",
+        "url": null,
+        "email": "info@comedy4you.pt",
+        "telefone": null,
+        "notas": "Sessões esgotadas. Possibilidade de inscrição em lista de espera."
+      },
+      "tts": "Segunda-feira, 23 de novembro, às 18 horas. Primeira sessão do espetáculo MIGAS em Genebra.",
+      "tts_bilheteira": "As sessões encontram-se esgotadas. Pode solicitar entrada na lista de espera através do e-mail info arroba comedy4you ponto pê tê."
+    },
+    {
+      "data_inicio": "2026-11-23T20:00:00",
+      "data_fim": null,
+      "dia_semana": "Segunda-feira",
+      "duracao_minutos": 120,
+      "titulo": "MIGAS",
+      "local": "Uptown Geneva",
+      "cidade": "Genebra",
+      "descricao": "Espetáculo de humor com Joana Marques e Bumba na Fofinha.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "lista_espera",
+        "url": null,
+        "email": "info@comedy4you.pt",
+        "telefone": null,
+        "notas": "Sessões esgotadas. Possibilidade de inscrição em lista de espera."
+      },
+      "tts": "Segunda-feira, 23 de novembro, às 20 horas. Segunda sessão do espetáculo MIGAS em Genebra.",
+      "tts_bilheteira": "As sessões encontram-se esgotadas. Pode solicitar entrada na lista de espera através do e-mail info arroba comedy4you ponto pê tê."
+    },
+    {
+      "data_inicio": "2026-11-28T23:00:00",
+      "data_fim": "2026-11-29T05:00:00",
+      "dia_semana": "Sábado",
+      "duracao_minutos": 360,
+      "titulo": "Festa dos Portugueses",
+      "subtitulo": "7.º Aniversário",
+      "local": "Club Flamingo",
+      "cidade": "Zurique",
+      "descricao": "Noite de música portuguesa para celebrar mais de duzentas edições do evento.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "eventfrog",
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": "Bilhetes disponíveis na plataforma Eventfrog."
+      },
+      "tts": "Sábado, 28 de novembro, das 23 horas até às 5 da manhã. Festa dos Portugueses, sétimo aniversário, no Club Flamingo em Zurique.",
+      "tts_bilheteira": "Bilhetes disponíveis na plataforma Eventfrog."
+    },
+    {
+      "data_inicio": "2026-12-09T20:00:00",
+      "data_fim": null,
+      "dia_semana": "Quarta-feira",
+      "duracao_minutos": 150,
+      "titulo": "Pedro Abrunhosa e Comité Caviar",
+      "local": "Victoria Hall",
+      "cidade": "Genebra",
+      "descricao": "Concerto do cantor e compositor português Pedro Abrunhosa.",
+      "bilheteira": {
+        "disponivel": false,
+        "tipo": null,
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": null
+      },
+      "tts": "Quarta-feira, 9 de dezembro, às 20 horas. Pedro Abrunhosa e Comité Caviar ao vivo no Victoria Hall de Genebra.",
+      "tts_bilheteira": null
+    },
+    {
+      "data_inicio": "2027-06-12T20:30:00",
+      "data_fim": null,
+      "dia_semana": "Sábado",
+      "duracao_minutos": 180,
+      "titulo": "Mariza e Tony Carreira",
+      "local": "Vaudoise Aréna",
+      "cidade": "Prilly",
+      "descricao": "Espetáculo conjunto de fado e música romântica portuguesa.",
+      "bilheteira": {
+        "disponivel": true,
+        "tipo": "ticketcorner",
+        "url": null,
+        "email": null,
+        "telefone": null,
+        "notas": "Bilhetes disponíveis na plataforma Ticketcorner."
+      },
+      "tts": "Sábado, 12 de junho de 2027, às 20 horas e 30 minutos. Mariza e Tony Carreira juntos na Vaudoise Aréna, em Prilly.",
+      "tts_bilheteira": "Bilhetes disponíveis na plataforma Ticketcorner."
+    }
+  ]
+}
