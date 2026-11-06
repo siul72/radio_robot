@@ -11,7 +11,8 @@ from elevenlabs.client import ElevenLabs
 from dotenv import load_dotenv
 from openai import OpenAI
 import feedparser
-from openai.types.chat import ChatCompletionMessageParam
+from openai.types.chat import ChatCompletionMessageParam, ChatCompletionSystemMessageParam, \
+    ChatCompletionUserMessageParam
 
 from radio_robot.enterprise import NewsType
 from radio_robot.sft_uploader import SftpUploader
@@ -125,16 +126,16 @@ class CreateAudioNews:
         
         {news_input}
         """
-
-        messages = cast(list[ChatCompletionMessageParam], [{
-                "role": "system",
-                "content": "You are a professional Portuguese radio journalist."
-            },
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ])
+        messages = [
+            ChatCompletionSystemMessageParam(
+                role="system",
+                content="You are a professional Portuguese radio journalist."
+            ),
+            ChatCompletionUserMessageParam(
+                role="user",
+                content=prompt
+            ),
+        ]
 
         response = client.chat.completions.create(
             model="deepseek-flash",
