@@ -4,6 +4,8 @@ import logging
 import os
 import re
 from datetime import datetime
+from typing import cast
+
 import paramiko
 from elevenlabs.client import ElevenLabs
 from dotenv import load_dotenv
@@ -124,8 +126,7 @@ class CreateAudioNews:
         {news_input}
         """
 
-        messages: list[ChatCompletionMessageParam] = [
-            {
+        messages = cast(list[ChatCompletionMessageParam], [{
                 "role": "system",
                 "content": "You are a professional Portuguese radio journalist."
             },
@@ -133,14 +134,14 @@ class CreateAudioNews:
                 "role": "user",
                 "content": prompt
             }
-        ]
+        ])
 
         response = client.chat.completions.create(
             model="deepseek-flash",
             messages=messages,
             temperature=0.3
         )
-       
+
 
         bulletin = response.choices[0].message.content.strip()
         
