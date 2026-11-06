@@ -4,14 +4,13 @@ import logging
 import os
 import re
 from datetime import datetime
-from typing import cast
 
 import paramiko
 from elevenlabs.client import ElevenLabs
 from dotenv import load_dotenv
 from openai import OpenAI
 import feedparser
-from openai.types.chat import ChatCompletionMessageParam, ChatCompletionSystemMessageParam, \
+from openai.types.chat import  ChatCompletionSystemMessageParam, \
     ChatCompletionUserMessageParam
 
 from radio_robot.enterprise import NewsType
