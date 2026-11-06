@@ -1,0 +1,11 @@
+elevenlabs
+python-dotenv
+openai
+feedparser
+python-dotenv
+openai
+feedparser
+requests
+beautifulsoup4
+lxml
+paramiko
